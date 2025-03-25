@@ -99,3 +99,7 @@ client.once("ready", async () => {
     console.error("Error registering commands:", error);
   }
 });
+
+
+// install link
+// https://discord.com/oauth2/authorize?client_id=1354015904366727209&permissions=18496&integration_type=0&scope=bot+applications.commands
